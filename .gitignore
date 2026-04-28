@@ -1,0 +1,19 @@
+# 忽略虚拟环境
+venv/
+.venv/
+
+# 忽略 Python 缓存
+**/__pycache__/
+*.pyc
+
+# 忽略打包生成的临时文件夹
+build/
+dist/
+*.spec
+
+# 忽略 VS Code 配置
+.vscode/
+
+# 忽略调试生成的图片
+DEBUG_*.png
+get-pip.py
