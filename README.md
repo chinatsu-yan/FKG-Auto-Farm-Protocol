@@ -1,6 +1,6 @@
 # 🌸 Flower Knight Girl - 全自动后台周回终端 (v1.0)
 
-本项目是针对网页游戏《Flower Knight Girl》（美少女花骑士）开发的自动化挂机工具。基于 Python + OpenCV + Win32 API 开发，支持真·后台运行，不占用鼠标键盘。
+本项目是针对网页游戏《Flower Knight Girl》（美少女花骑士）开发的自动化挂机工具。基于 Python + OpenCV + Win32 API 开发，支持后台运行，不占用鼠标键盘。
 
 ## ✨ 核心特性
 - **后台挂机**：利用 Win32 后台渲染技术，窗口被完全遮挡（不最小化）仍能正常运行，不影响工作。
